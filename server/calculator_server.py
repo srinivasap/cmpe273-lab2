@@ -2,9 +2,6 @@ from concurrent import futures
 import time
 import grpc
 
-#import sys
-#sys.path.insert(0, '/Users/z001hmr/MSSE/Fall2018/CMPE273\ Ent\ Dist\ Systems/genereated')
-
 import calculator_pb2
 import calculator_pb2_grpc
 
