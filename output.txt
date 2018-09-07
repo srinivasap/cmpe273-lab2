@@ -1,0 +1,6 @@
+# running server
+srini@88e9fe511b8c server (master) $ python3 calculator_server.py
+
+# exec client with with request 1+1
+srini@88e9fe511b8c client (master) $ python3 calculator_client.py
+Calculator add result: 2
