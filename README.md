@@ -1,4 +1,4 @@
-# cmpe273-lab2
+# sample_calc_grpc_py
 
 Instructions:
 1. Install gRpc $ python3 -m pip install grpcio
